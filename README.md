@@ -1,5 +1,5 @@
 
-#React Chess board in typescript
+# React Chess board in typescript
 
 Chess board is complete.
 Currently working on moving the pieces
