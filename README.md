@@ -4,6 +4,10 @@
 Chess board is complete.
 Currently working on moving the pieces
 
+### Screenshot
+
+![Screenshot](/src/img/Chess_Screenshot.png)
+
 
 ### Create React App
 
